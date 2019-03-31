@@ -1,7 +1,7 @@
-PROJECT TITLE:
+### PROJECT TITLE:
 Library Management Application
 
-DESCRIPTION:
+### DESCRIPTION:
 This application includes four features-
 - Create Membership-
    This feature helps you create either Regular membership or Gold membership.
@@ -12,11 +12,11 @@ This application includes four features-
 - Ruturn books-
    This feature helps you return books that were previously borrowed.
 
-SOFTWARE INSTALLATION GUIDE:
+### SOFTWARE INSTALLATION GUIDE:
 - In order to execute this application we require to install Python 3.7.2. The latest version can be installed using the following link https://www.python.org/downloads/
 - Sublime Text is another important software required to execute this application which can be installed using the following link https://www.sublimetext.com/3
 
-DEPLOYMENT:
+### DEPLOYMENT:
 - First of all, create a new folder preferably on your Desktop. 
 - Now open Sublime Text and copy the code present in library_manager.py(uploaded on github) and save it as library_manager.py in the folder just created. 
 - Similarly, follow the above procedure for main.py. 
@@ -27,7 +27,7 @@ DEPLOYMENT:
      4. All the folders available on your desktop now appears, choose your folder by typing "cd 'YOUR FOLDER NAME'/ ".
      5. You have now successfully directed your folder to Terminal. Let's run our code now, "apples-MacBook-Pro:apple$ 'YOUR FOLDER NAME/ " type "python3 main.py"
 
-HOW TO USE:
+### HOW TO USE:
 Once main.py is navigated successfully, four choices appear.
  - On typing "1" you can create either regular membership or gold membership. Regular members can borrow atmost one book at a time and Gold members can borrow one or two books at a time. Membership ID is provided after taking your name and password as inputs. Using the membership ID and password you will be able to access the other functions that follow. 
  - On typing "2" a list of the books available in the library is shown. 
