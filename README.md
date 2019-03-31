@@ -2,15 +2,15 @@
 Library Management Application
 
 ### DESCRIPTION:
-This application includes four features-
+This application includes four methods-
 - Create Membership-
-   This feature helps you create either Regular membership or Gold membership.
+   This method helps you create either Regular membership or Gold membership.
 - Display list of books-
-   This feature lists out the books that are available in the library.
+   This method lists out the books that are available in the library.
 - Borrow books-
-   This feature helps you borrow the available books.
+   This method helps you borrow the available books.
 - Ruturn books-
-   This feature helps you return books that were previously borrowed.
+   This method helps you return books that were previously borrowed.
 
 ### SOFTWARE INSTALLATION GUIDE:
 - In order to execute this application we require to install Python 3.7.2. The latest version can be installed using the following link https://www.python.org/downloads/
