@@ -1,7 +1,3 @@
-
-                                                         README
-
-
 PROJECT TITLE:
 Library Management Application
 
@@ -37,6 +33,3 @@ Once main.py is navigated successfully, four choices appear.
  -> On typing "2" a list of the books available in the library is shown. 
  -> On typing "3", you will be able to borrow the book of your choice and your transaction is recorded.
  -> On typing "4", you will be able to return the books borrowed as per your transaction history.
-
-
-                                                         THE END
