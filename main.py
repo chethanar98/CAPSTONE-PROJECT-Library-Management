@@ -1,8 +1,6 @@
 """
 Library Management Applocation Script
 
-Authors:
-		Chethana Ramesh <chethanaramesh98@gmail.com>
 """
 
 from library_manager import LibraryManager, RegularMember, GoldMember
